@@ -6,6 +6,8 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![License](https://img.shields.io/badge/License-Private-red)](LICENSE)
 
+**🚀 Quick Start**: [QUICKSTART.md](QUICKSTART.md) | **📖 Full Docs**: [DOCS_INDEX.md](DOCS_INDEX.md) | **❓ Questions**: [FAQ.md](FAQ.md)
+
 ## What This Is
 
 A structured cognitive + identity + manifestation processing system with multi-layer AI analysis and longitudinal pattern tracking.
