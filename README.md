@@ -93,28 +93,28 @@ Longitudinal tracking of:
 
 ## Quick Start
 
+**Get running in 10 minutes**: See [QUICKSTART.md](QUICKSTART.md)
+
 ### Prerequisites
 
 - Node.js 18+
-- Supabase account
-- OpenAI API key
+- Supabase account (free tier works)
+- OpenAI API key with credits
 
 ### Installation
 
 ```bash
-# Clone repository
+# Clone and install
 git clone https://github.com/jhouston2019/consiglierie.git
 cd consiglierie
-
-# Install dependencies
 npm install
 
-# Set up environment
+# Configure environment
 cp .env.example .env.local
-# Edit .env.local with your credentials
+# Edit .env.local with your Supabase and OpenAI credentials
 
 # Run migration in Supabase SQL Editor
-# (copy contents of supabase/migrations/001_initial_schema.sql)
+# Copy contents of supabase/migrations/001_initial_schema.sql
 
 # Start development server
 npm run dev
@@ -122,9 +122,11 @@ npm run dev
 
 Open http://localhost:3000
 
-### Detailed Setup
+### Detailed Guides
 
-See [SETUP.md](SETUP.md) for comprehensive setup instructions.
+- **[QUICKSTART.md](QUICKSTART.md)** - 10-minute setup guide
+- **[SETUP.md](SETUP.md)** - Comprehensive setup instructions
+- **[GETTING_STARTED.md](GETTING_STARTED.md)** - Usage guide for first session
 
 ## Documentation
 
