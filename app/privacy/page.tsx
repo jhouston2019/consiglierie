@@ -52,8 +52,8 @@ export default function PrivacyPage() {
           <h2 className="text-lg font-bold mb-4">AI Processing</h2>
           <div className="space-y-3 text-gray-300">
             <p>
-              Your inputs are processed through OpenAI's API for cognitive analysis.
-              OpenAI's data usage policies apply to API requests.
+              Your inputs are processed through OpenAI&apos;s API for cognitive analysis.
+              OpenAI&apos;s data usage policies apply to API requests.
             </p>
             <p>
               No conversation history is retained by the AI provider beyond the processing session.
